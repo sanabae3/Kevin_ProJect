@@ -1,5 +1,5 @@
 from math import floor
-import matplotlib
+#import matplotlib
 """ This function caculatess the 'Poids sec avant lavage'
     it takes 2 values which are measured  poids_initiale_humide_avant_avage and teneur_en_eau_nat
     and calculates it 
@@ -37,4 +37,4 @@ tamisat_result=tamisat_Cumulé_pourcentage(refus_result)
 
 print ('Refus cumule % : ',refus_result)
 print('Tamisat Cumule % : ',tamisat_result)
-
+print('this is the end for now planing to build a class')
