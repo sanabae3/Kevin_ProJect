@@ -3,7 +3,7 @@ from math import floor
 """ This function caculatess the 'Poids sec avant lavage'
     it takes 2 values which are measured  poids_initiale_humide_avant_avage and teneur_en_eau_nat
     and calculates it 
-
+ I am the best programmer
  """
 
 poids_initiale_humide_avant_lavage= int(input("poids_initiale_humide_avant_avage:"))
